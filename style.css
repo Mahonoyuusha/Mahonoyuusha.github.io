@@ -164,12 +164,12 @@ a:hover {
     width: 100%;
     margin-top: 5px;
 }
-.img-artiste {
+.card img.img-artiste {
+    height: 300px;
     width: 200px;
-    height: 600px;
-    object-fit: cover;
     border-radius: 5px;
     margin-bottom: 10px;
+    object-fit: cover;
 }
 
 
